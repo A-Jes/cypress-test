@@ -10,3 +10,8 @@ it('Should login as a error user', () => {
     cy.Login(users.visual)
    })
 })
+
+// cypress/e2e/example.cy.js
+//  cy.get('#APjFqb') 
+//     .type('Ajes QA{enter}');
+
